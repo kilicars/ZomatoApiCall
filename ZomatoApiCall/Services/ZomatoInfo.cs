@@ -3,7 +3,7 @@
     public static class ZomatoInfo
     {
         const string url = "https://developers.zomato.com/api/v2.1/";
-        const string apiKey = "749b7981ff9e98b3b0ed487c17028e6e";
+        const string apiKey = "{Your-API-Key}";
 
         public static RestaurantList GetRestaurants()
         {
